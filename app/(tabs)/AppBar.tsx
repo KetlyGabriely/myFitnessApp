@@ -28,7 +28,7 @@ export default function AppBar({title}: Props) {
 const styles = StyleSheet.create({
     container: {
         height: 60,
-        backgroundColor: "#ff6600",
+        backgroundColor: "#4e5f8b",
         flexDirection: "row",
         alignItems: "center",
         justifyContent: "space-between",
