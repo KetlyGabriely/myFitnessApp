@@ -12,7 +12,7 @@ export default function Splash(){
 
     return(
         <View style={styles.container}>
-            <Text>Splash Screen</Text>
+            <Text>Bem-vindo ao My Fitness App</Text>
             <ActivityIndicator size="large" />
         </View>
     );
